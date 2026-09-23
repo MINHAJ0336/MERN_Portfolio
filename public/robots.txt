@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://minhaj-portfolio.vercel.app/sitemap.xml
+Sitemap: https://portfolio336.netlify.app/sitemap.xml

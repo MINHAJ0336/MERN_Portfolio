@@ -1,6 +1,8 @@
 {
-  "name": "Minhaj Ahmed Khan | MERN Stack & Full-Stack Developer",
-  "description": "Minhaj Ahmed Khan is a MERN Stack & Full-Stack Web Developer specializing in React.js, Node.js, Express.js, MongoDB, JWT, Stripe, Socket.IO, and Tailwind CSS.",
+  "name": "MINHAJ0336 | Minhaj Ahmed Khan | Full-Stack MERN Developer",
+  "description": "MINHAJ0336 is the developer identity of Minhaj Ahmed Khan, a Full-Stack and MERN Stack Developer based in Hyderabad, Sindh, Pakistan. Specializing in React.js, JavaScript, Node.js, Express.js, MongoDB, REST APIs, JWT, Stripe, Socket.IO, Tailwind CSS, PHP, Laravel, responsive UI development, and modern web applications.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
